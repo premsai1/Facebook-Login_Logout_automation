@@ -2,7 +2,11 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-
+/**
+ * @author Premsai Manthani
+ * @Purpose : this program performs the Facebook registerational.
+ *
+ */
 public class Registeration {
 
 	public static void main(String[] args) {
